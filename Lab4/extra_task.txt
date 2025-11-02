@@ -1,1 +1,8 @@
 A blue light was used during image acquisition that makes the image looks more bluish as seen in files 1.jpg and 2.jpg. Eliminate the effect of this extra blue in the image.
+
+
+if we make it video at what time we take the image to the sign image as it will matter if it is too near or far 
+or we take more than one photo at different postions and evaluate them then take the most repeated sign and is 
+time be enough if there is two sign near to each other what will be the time need for all this process as it matter
+
+* should we make it video or image as i guess paper take about image not video as i think the % that they talk is for photos not video.
